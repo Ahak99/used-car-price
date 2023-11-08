@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .login {
+            width: 400px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #a9d0e3;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            margin: 0 0 20px;
+            color: #333;
+        }
+        form {
+            text-align: left;
+        }
+        .mb-3 {
+            margin-bottom: 20px;
+        }
+        .form-label {
+            display: block;
+            font-weight: bold;
+        }
+        .form-control {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        select.form-control {
+            height: 40px;
+        }
+        .btn {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="login">
+       <h1>Used Car Prices Prediction</h1>
+   
+       <form action="{{ url_for('predict_datapoint')}}" method="post">
+
+        <div class="mb-3">
+            <label class="form-label">Location</label>
+            <select class="form-control" name="Location" placeholder="Enter your location" required>
+                <option class="placeholder" selected disabled value="">Select your location</option>
+                <option value="Bangalore">
+                    Bangalore
+                </option>
+                <option value="Kochi">
+                    Kochi
+                </option>
+                <option value="Ahmedabad">
+                    Ahmedabad
+                </option>
+                <option value="Delhi">
+                    Delhi
+                </option>
+                <option value="Kolkata">
+                    Kolkata
+                </option>
+                <option value="Coimbatore">
+                    Coimbatore
+                </option>
+                <option value="Pune">
+                    Pune
+                </option>
+                <option value="Mumbai">
+                    Mumbai
+                </option>
+                <option value="Jaipur">
+                    Jaipur
+                </option>
+                <option value="Hyderabad">
+                    Hyderabad
+                </option>
+                <option value="Chennai">
+                    Chennai
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Year of manufacture [between 1998 - 2019]</label>
+            <input class="form-control" type="number" name="Year"
+                placeholder="Enter the year" min='1998' max='2019' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Total kilometers driven in the car by the previous owners (in km)</label>
+            <input class="form-control" type="number" name="Kilometers_Driven"
+                placeholder="Enter your Reading Score" min='171' max='6500000' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Fuel type (petrol or diesel)</label>
+            <select class="form-control" name="Fuel_Type" placeholder="Enter your Fuel type" required>
+                <option class="placeholder" selected disabled value="">Select Fuel type</option>
+                <option value="Diesel">
+                    Diesel
+                </option>
+                <option value="Petrol">
+                    Petrol
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Transmission type (manual or automatic)</label>
+            <select class="form-control" name="Transmission" placeholder="Enter your Transmission type" required>
+                <option class="placeholder" selected disabled value="">Select Transmission type</option>
+                <option value="Manual">
+                    Manual
+                </option>
+                <option value="Automatic">
+                    Automatic
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Number of owners</label>
+            <select class="form-control" name="Owner_Type" placeholder="Enter the number of previous owners" required>
+                <option class="placeholder" selected disabled value="">Select the number of previous owners</option>
+                <option value="First">
+                    First
+                </option>
+                <option value="Second">
+                    Second
+                </option>
+                <option value="Third">
+                    Third
+                </option>
+                <option value="Fourth & Above">
+                    Fourth & Above
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Standard mileage offered by the car company in kmpl or km/kg</label>
+            <input class="form-control" type="number" name="Mileage_kmpl"
+                placeholder="Enter the Mileage (kmpl - km/kg)" min='0.0' max='28.4' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Displacement volume of the engine in CC</label>
+            <input class="form-control" type="number" name="Engine_CC"
+                placeholder="Enter the number of engines" min='72.0' max='5998.0' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Maximum power of the engine in bhp</label>
+            <input class="form-control" type="number" name="Power_bhp"
+                placeholder="Enter the Mileage (kmpl - km/kg)" min='34.2' max='560.0' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Number of seats in the car</label>
+            <input class="form-control" type="number" name="Seats"
+                placeholder="Enter the number of seats" min='2.0' max='10.0' />
+        </div>
+        <!-- Repeat the same styling for other form elements -->
+        <!-- ... (rest of the form elements) ... -->
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict the Car Price" required />
+        </div>
+    </form>
+    <h2>
+       The estimated price is {{results}}
+    </h2>
+    </div>
+</body>
+</html>
