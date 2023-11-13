@@ -75,3 +75,11 @@
     1. Github
     2. Any IDE to work (VScode, PyCharm ...)
     3. Heroku account
+
+### Create a new environment
+
+    python -m venv .venv
+
+### Activate the environment
+
+    .venv/Scripts/activate
