@@ -7,7 +7,9 @@
 
 ### Tools & technologies used
     1. Programming language : Python
-![python](https://github.com/Ahak99/used-car-price/assets/101395769/77eb34b4-d758-4f70-bbf9-4cde54ced129)
+<div align="center">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/77eb34b4-d758-4f70-bbf9-4cde54ced129" alt="Alt Text">
+</div>
 
     2. Data storage : Amazon S3
 ![S3](https://github.com/Ahak99/used-car-price/assets/101395769/6d920e5e-ad0d-43cc-889f-91123fdf2d56)
