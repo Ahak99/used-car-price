@@ -36,7 +36,7 @@
 
     9. Deploy the project to Heroku 
 
-### Project design
+### Project design 
     ![Project Design](https://github.com/Ahak99/used-car-price/assets/101395769/415c9f6a-5bfc-4cb2-b965-3a0f59edce69)
 
 ### Software and tools requirements
