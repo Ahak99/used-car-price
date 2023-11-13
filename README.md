@@ -12,19 +12,29 @@
 </div>
 
     2. Data storage : Amazon S3
-![S3](https://github.com/Ahak99/used-car-price/assets/101395769/6d920e5e-ad0d-43cc-889f-91123fdf2d56)
+<div align="center">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/6d920e5e-ad0d-43cc-889f-91123fdf2d56" alt="Alt Text">
+</div>
 
     3. ML libraries : Tensorflow, Keras, Sklearn, pandas
-![AI librairies](https://github.com/Ahak99/used-car-price/assets/101395769/fae06a0b-7055-4c42-85f0-3a424bad9bef)
+<div align="center">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/fae06a0b-7055-4c42-85f0-3a424bad9bef" alt="Alt Text">
+</div>
     
     4. Docker
-![docker](https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797)
+<div align="center">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797" alt="Alt Text">
+</div>
     
     5. Github
-![Github](https://github.com/Ahak99/used-car-price/assets/101395769/308b6f2c-6e69-4c92-b210-9d82b2d257e3)
+<div align="center">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/308b6f2c-6e69-4c92-b210-9d82b2d257e3" alt="Alt Text">
+</div>
     
-    6. Heroku    
-![heroku](https://github.com/Ahak99/used-car-price/assets/101395769/eb3aba47-aba8-4972-8fef-b9d30490cc31)
+    6. Heroku
+<div align="center">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/eb3aba47-aba8-4972-8fef-b9d30490cc31" alt="Alt Text">
+</div>
 
 ### Life cycle of project
     1. Install the dependencies
