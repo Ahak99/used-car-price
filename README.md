@@ -37,7 +37,7 @@
     9. Deploy the project to Heroku 
 
 ### Project design
-    ![My Image](src\Project Design.PNG)
+    ![GitHub Logo](src\Project Design.PNG)
 
 ### Software and tools requirements
 
