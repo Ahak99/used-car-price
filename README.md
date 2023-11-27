@@ -6,32 +6,37 @@
 3. Then I containerise it using Docker and deploy it on the heroku cloud.
 
 ### Tools & technologies used
-    1. Programming language : Python
+1. Programming language : Python
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/77eb34b4-d758-4f70-bbf9-4cde54ced129" alt="Alt Text">
 </div>
 
-    2. Data storage : Amazon S3
+2. Data storage : Amazon S3
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/6d920e5e-ad0d-43cc-889f-91123fdf2d56" alt="Alt Text">
 </div>
 
-    3. ML libraries : Tensorflow, Keras, Sklearn, pandas
+3. ML libraries : Tensorflow, Keras, Sklearn, pandas
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/fae06a0b-7055-4c42-85f0-3a424bad9bef" alt="Alt Text">
 </div>
-    
-    4. Docker
+
+4. Flask
+<div align="center">
+  <img src="" alt="Alt Text">
+</div>
+
+5. Docker
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797" alt="Alt Text">
 </div>
     
-    5. Github
+6. Github
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/308b6f2c-6e69-4c92-b210-9d82b2d257e3" alt="Alt Text">
 </div>
     
-    6. Heroku
+7. Heroku
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/eb3aba47-aba8-4972-8fef-b9d30490cc31" alt="Alt Text">
 </div>
