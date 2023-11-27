@@ -26,7 +26,7 @@
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/df49ee4b-7b5c-4ad1-b23a-afe9e5c5c967" alt="Alt Text">
 </div>
 
-6. Docker
+5. Docker
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797" alt="Alt Text">
 </div>
