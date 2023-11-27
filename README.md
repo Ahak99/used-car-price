@@ -23,7 +23,7 @@
 
 4. Flask
 <div align="center">
-  <img src="(https://github.com/Ahak99/used-car-price/assets/101395769/5c1f6237-bdb6-4c8c-ab5a-b4f0855c9438)" alt="Alt Text">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/5c1f6237-bdb6-4c8c-ab5a-b4f0855c9438" alt="Alt Text">
 </div>
 
 5. Docker
