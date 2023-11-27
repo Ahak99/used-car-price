@@ -22,9 +22,11 @@
 </div>
 
 4. Flask
-![flask](https://github.com/Ahak99/used-car-price/assets/101395769/5c1f6237-bdb6-4c8c-ab5a-b4f0855c9438)
+<div align="center">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/5c1f6237-bdb6-4c8c-ab5a-b4f0855c9438" alt="Alt Text">
+</div>
 
-5. Docker
+6. Docker
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797" alt="Alt Text">
 </div>
