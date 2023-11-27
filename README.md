@@ -1,47 +1,47 @@
 # Used Car Price 
 
-### Objectives
+## Objectives
 1. The provided contains various details and attributes associated with used cars. The target variable, which is the central focus of analysis, is the price of the used cars, and it is measured in lakhs.
 2. To solve the problem statement, I opted to develop a user-friendly web application.
 3. Then I containerise it using Docker and deploy it on the heroku cloud.
 
-### Tools & technologies used
-1. Programming language : Python
+## Tools & technologies used
+### 1. Programming language : Python
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/77eb34b4-d758-4f70-bbf9-4cde54ced129" alt="Alt Text">
 </div>
 
-2. Data storage : Amazon S3
+### 2. Data storage : Amazon S3
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/6d920e5e-ad0d-43cc-889f-91123fdf2d56" alt="Alt Text">
 </div>
 
-3. ML libraries : Tensorflow, Keras, Sklearn, pandas
+### 3. ML libraries : Tensorflow, Keras, Sklearn, pandas
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/fae06a0b-7055-4c42-85f0-3a424bad9bef" alt="Alt Text">
 </div>
 
-4. Flask
+### 4. Flask
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/df49ee4b-7b5c-4ad1-b23a-afe9e5c5c967" alt="Alt Text">
 </div>
 
-5. Docker
+### 5. Docker
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797" alt="Alt Text">
 </div>
     
-6. Github
+### 6. Github
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/308b6f2c-6e69-4c92-b210-9d82b2d257e3" alt="Alt Text">
 </div>
     
-7. Heroku
+### 7. Heroku
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/eb3aba47-aba8-4972-8fef-b9d30490cc31" alt="Alt Text">
 </div>
 
-### Life cycle of project
+## Life cycle of project
     1. Install the dependencies
     2. Collect data
         - Dataset source : Dataset Source - https://www.kaggle.com/datasets/sujay1844/used-car-prices
@@ -72,19 +72,19 @@
 
     9. Deploy the project to Heroku 
 
-### Project design 
+## Project design 
 ![Project Design](https://github.com/Ahak99/used-car-price/assets/101395769/183e7494-753c-4ec5-bda5-00de17eda571)
 
-### Software and tools requirements
+## Software and tools requirements
 
     1. Github
     2. Any IDE to work (VScode, PyCharm ...)
     3. Heroku account
 
-### Create a new environment
+## Create a new environment
 
     python -m venv .venv
 
-### Activate the environment
+## Activate the environment
 
     .venv/Scripts/activate
