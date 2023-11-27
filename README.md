@@ -1,9 +1,9 @@
 # Used Car Price 
 
 ### Objectives
-    1. The provided contains various details and attributes associated with used cars. The target variable, which is the central focus of analysis, is the price of the used cars, and it is measured in lakhs.
-    2. To solve the problem statement, I opted to develop a user-friendly web application.
-    3. Then I containerise it using Docker and deploy it on the heroku cloud.
+1. The provided contains various details and attributes associated with used cars. The target variable, which is the central focus of analysis, is the price of the used cars, and it is measured in lakhs.
+2. To solve the problem statement, I opted to develop a user-friendly web application.
+3. Then I containerise it using Docker and deploy it on the heroku cloud.
 
 ### Tools & technologies used
     1. Programming language : Python
