@@ -10,12 +10,12 @@
 
 ### 1. **Programming Language**: Python 🐍  
 <div align="center">
-  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/77eb34b4-d758-4f70-bbf9-4cde54ced129" alt="Python Logo" width="50">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/77eb34b4-d758-4f70-bbf9-4cde54ced129" alt="Alt Text">
 </div>
 
 ### 2. **Data Storage**: Amazon S3 ☁️  
 <div align="center">
-  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/6d920e5e-ad0d-43cc-889f-91123fdf2d56" alt="Amazon S3 Logo" width="50">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/6d920e5e-ad0d-43cc-889f-91123fdf2d56" alt="Amazon S3 Logo">
 </div>
 
 ### 3. **Machine Learning Libraries**:  
@@ -25,27 +25,27 @@
 - **Pandas** 📊
 
 <div align="center">
-  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/fae06a0b-7055-4c42-85f0-3a424bad9bef" alt="ML Libraries" width="50">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/fae06a0b-7055-4c42-85f0-3a424bad9bef" alt="ML Libraries">
 </div>
 
 ### 4. **Web Framework**: Flask 🖥️  
 <div align="center">
-  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/df49ee4b-7b5c-4ad1-b23a-afe9e5c5c967" alt="Flask Logo" width="50">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/df49ee4b-7b5c-4ad1-b23a-afe9e5c5c967" alt="Flask Logo">
 </div>
 
 ### 5. **Containerization**: Docker 🐋  
 <div align="center">
-  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797" alt="Docker Logo" width="50">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/69fef606-0c05-48dd-9829-ee618887f797" alt="Docker Logo">
 </div>
 
 ### 6. **Version Control**: GitHub 🧑‍💻  
 <div align="center">
-  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/308b6f2c-6e69-4c92-b210-9d82b2d257e3" alt="GitHub Logo" width="50">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/308b6f2c-6e69-4c92-b210-9d82b2d257e3" alt="GitHub Logo">
 </div>
 
 ### 7. **Cloud Deployment**: Heroku 🌐  
 <div align="center">
-  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/eb3aba47-aba8-4972-8fef-b9d30490cc31" alt="Heroku Logo" width="50">
+  <img src="https://github.com/Ahak99/used-car-price/assets/101395769/eb3aba47-aba8-4972-8fef-b9d30490cc31" alt="Heroku Logo">
 </div>
 
 ---
