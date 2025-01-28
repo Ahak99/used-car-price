@@ -113,14 +113,20 @@
 ```bash
 python -m venv .venv
 
+---
+
 ### 2. **Activate the Virtual Environment**
 - On **Windows**
 ```bash
 .venv\Scripts\activate
 
+---
+
 - On **macOS/Linux**
 ```bash
 source .venv/bin/activate
+
+---
 
 ## 🚀 Run the Application
 
@@ -129,6 +135,8 @@ source .venv/bin/activate
 
    ```bash
    pip install -r requirements.txt
+
+---
 
 2. **Run the Flask app**
 
