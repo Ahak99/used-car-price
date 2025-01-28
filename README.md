@@ -130,9 +130,9 @@ source .venv/bin/activate
 1. **Install the required dependencies**  
    To install the necessary libraries, use the following command:
 
-   ```bash
-   pip install -r requirements.txt
-  ```
+```bash
+pip install -r requirements.txt
+```   
 
 2. **Run the Flask app**
 
